@@ -1,2 +1,2 @@
-Hola smr
-Esto es una prueba
+# Hola smr
+## Esto es una prueba
